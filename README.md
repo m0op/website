@@ -1,9 +1,9 @@
 # website
 
-https://rawgit.com/m0op/website/master/progress.html
+https://rawgit.com/m0op/website/me-irl/progress.html
 
 
 
 
 
-https://rawgit.com/m0op/website/master/about.html
+https://rawgit.com/m0op/website/me-irl/about.html
